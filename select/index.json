@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "UN PREVIEW",
+  "base_artist": "Bad Bunny",
+  "createdAt": "2026-02-20T16:42:52.788654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "UN PREVIEW",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/01_UN_PREVIEW_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "UN PREVIEW",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/02_UN_PREVIEW_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "UN PREVIEW",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/03_UN_PREVIEW_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "UN PREVIEW",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/04_UN_PREVIEW_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Bunny - UN PREVIEW (Official Video)",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/05_Bad_Bunny_-_UN_PREVIEW_(Official_Video)_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "UN PREVIEW [Explicit]",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/06_UN_PREVIEW_[Explicit]_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "UN PREVIEW [Explicit]",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/07_UN_PREVIEW_[Explicit]_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "UN PREVIEW (By MillerPauta)",
+      "artist": "Bad Bunny (By MillerPauta)",
+      "has_synced": true,
+      "path": "select/08_UN_PREVIEW_(By_MillerPauta)_Bad_Bunny_(By_MillerPauta).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UN PREVIEW",
+      "artist": "Bad Bunny",
+      "has_synced": false,
+      "path": "select/pl_01_UN_PREVIEW_Bad_Bunny.txt"
+    }
+  ]
+}
